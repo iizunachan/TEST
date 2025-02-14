@@ -1,0 +1,19 @@
+import os
+os.system("clear")
+
+numero1 = float(input("Digite a primeiro número: "))
+numero2 = float(input("Digite a segundo número: "))
+
+media = (numero1 + numero2) /2
+numero1 + numero2
+
+
+
+print("------------------------------------------------")
+print(f"Média: {media}")
+print(f"Soma: {numero1 + numero2}")
+
+if numero1 > numero2:
+    print("O maior é o", numero1)
+if numero1 < numero2:
+    print("O menor é o", numero1)

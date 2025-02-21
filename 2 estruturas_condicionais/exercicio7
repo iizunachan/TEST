@@ -4,5 +4,7 @@ os.system("clear")
 login = (input("Digite seu login: "))
 login_cadastrado = int
 
-if login == iizuna
-print("aprovado")
+if login == ("iizuna"):
+    print("Aprovado! :)")
+else:
+    print("Falha! :(")    

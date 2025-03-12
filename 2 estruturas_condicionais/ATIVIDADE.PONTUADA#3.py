@@ -11,11 +11,10 @@ C = int
 
 print("-----------------------------------------")
 if A == B: 
-    print (A + B) 
+    C = A + B
 else:
-    print (A * B)
+    C = A * B
 
-A + B = C
 
 #exibindo dados
 
@@ -24,4 +23,4 @@ print(f"Resultado: {C}")
 
 
 print("---Fim!---")
-if
+

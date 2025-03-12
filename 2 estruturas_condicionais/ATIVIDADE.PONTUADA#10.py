@@ -23,4 +23,4 @@ valor_bruto = litros * preco_litro
 valor_desconto = valor_bruto * desconto
 valor_final = valor_bruto - valor_desconto
 print ("----------------------------------------------------------")
-print(f"Valor a ser pago: R$ {valor_final:.2f}")
+print(f"Valor a ser pago: R$ {valor_final:.2f}") 
